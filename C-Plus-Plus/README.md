@@ -16,6 +16,7 @@ Format:
 
 -[Find nth term in an A.P.](nth_term_ap.cpp)
 
+<<<<<<< HEAD
 -[Find nth term in an G.P](nth-term-gp.cpp)
 
 -[Heap Sort](heap_sort.cpp)
@@ -24,8 +25,15 @@ Format:
 
 -[Search an element in a sorted matrix](Search_Sorted_Matrix.cpp)
 
+=======
+-[Linear Search](linear_search.cpp)
+
+>>>>>>> master
 -[Selection Sort](selection_sort.cpp)
 
 -[Sieve of Eratosthenes](sieve_of_eratosthenes.cpp)
 
+<<<<<<< HEAD
 -[Selection Sort](selection_sort.cpp)
+=======
+>>>>>>> master
